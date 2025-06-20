@@ -1,0 +1,107 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            34:4a:69:d4:26:6c:72:eb:a7:24:59:a9:4f:cc:64:d4:94:b8:5f:18
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=ID, O=KriptoITS, OU=PKI, CN=KriptoITS Demo Issuing CA 20250619
+        Validity
+            Not Before: Jun 19 14:41:01 2025 GMT
+            Not After : Jun 19 14:41:01 2028 GMT
+        Subject: CN=openxpki-its.jhr.my.id
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (3072 bit)
+                Modulus:
+                    00:bd:68:ff:34:c9:cb:56:d0:e3:ab:a2:5b:b4:c2:
+                    aa:b0:b2:0f:84:58:bb:91:9a:83:c5:1e:0b:09:ad:
+                    71:1e:59:29:08:86:a4:ca:99:9f:5b:58:73:e8:8c:
+                    e0:56:25:3d:74:87:71:5a:38:7c:2f:58:da:14:07:
+                    7a:4f:fa:c8:57:e4:75:f0:55:4b:84:52:06:ec:8a:
+                    46:76:8c:1b:1c:b2:77:b2:a2:cf:2e:96:56:96:c0:
+                    43:53:32:06:46:f8:5f:29:71:71:df:1b:97:d8:71:
+                    59:9f:54:9a:fa:85:67:53:21:c4:43:3f:e9:1f:4b:
+                    56:29:4a:0d:f7:00:3e:75:1c:46:15:f9:67:ec:7f:
+                    f0:e0:93:de:f1:3a:ec:46:f6:d8:7e:f4:3a:0c:1a:
+                    ed:13:08:2a:dc:6b:d9:30:f7:1a:7b:78:80:09:4a:
+                    0c:b2:d4:94:63:2b:d6:cc:bf:62:0a:a2:f6:f7:14:
+                    bf:e1:f0:01:0a:65:a4:dd:b9:41:79:0e:c7:44:9b:
+                    be:1e:98:08:2c:3d:da:b4:da:7e:6a:41:a8:fe:46:
+                    09:01:ac:03:f3:c6:3c:60:0a:4a:c7:63:05:aa:42:
+                    8a:0c:3c:00:6f:6d:01:1c:29:55:86:68:e2:c9:0e:
+                    f4:3a:55:85:7c:82:26:d2:0a:41:05:eb:cf:f7:a3:
+                    c6:6a:ea:df:f6:52:c3:46:52:5d:3a:b8:f6:66:ab:
+                    1e:7e:64:5f:cd:e3:db:68:9b:76:d0:53:69:8a:38:
+                    08:e7:1b:2b:3c:cd:79:64:8e:75:98:33:ce:d6:b7:
+                    7d:f3:4b:a6:90:b0:18:6f:cb:c6:4b:d0:ed:b8:25:
+                    4d:a7:31:bc:e1:85:10:23:df:28:98:ac:68:a3:f0:
+                    1c:22:9f:bc:8e:b3:91:72:30:83:00:1a:fa:58:4e:
+                    9d:0d:3a:2b:8a:79:b5:46:e5:e9:a8:5d:1a:5f:b1:
+                    5b:ce:00:c4:df:c2:ed:9b:a9:9a:30:da:2a:d1:f9:
+                    3d:2d:da:64:b0:02:78:4f:c7:b5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                81:E8:DA:F0:A9:10:31:E7:2F:5E:03:96:03:B6:20:C2:C7:63:73:A7
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Alternative Name: 
+                DNS:openxpki-its.jhr.my.id
+            X509v3 Authority Key Identifier: 
+                2B:15:19:2E:B0:F0:89:20:3B:84:21:C0:60:3A:31:B2:98:6B:B6:82
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        08:31:6e:94:5e:0b:bb:52:1d:55:13:4b:36:08:55:04:d5:61:
+        8e:1f:eb:59:3e:cd:89:89:81:f1:e7:28:03:8e:60:75:af:6b:
+        64:59:c7:ca:84:5e:8a:b8:4d:71:4c:e1:6d:2b:e5:20:db:f6:
+        dd:ae:97:e8:03:8e:8a:d1:49:2a:9f:e0:ea:05:ea:f6:fd:00:
+        84:61:3a:29:79:53:a0:19:5a:07:86:4a:ee:b3:f5:09:0f:93:
+        87:50:d6:cf:59:fa:54:44:49:de:73:a7:50:de:7e:9e:29:88:
+        bc:c8:91:9c:e8:80:6c:a0:47:47:c4:26:56:e5:02:d9:f8:43:
+        9a:b4:a0:43:be:d3:12:e0:d7:0d:4d:a9:d7:9a:10:d8:d2:d6:
+        39:85:62:66:d8:36:5f:6b:eb:08:57:b3:40:38:35:03:1f:e4:
+        d2:d7:62:d8:c3:5b:64:20:3b:22:e6:29:57:50:b4:f8:bb:d3:
+        3f:79:3c:5a:13:0a:c4:00:5e:10:e1:b0:00:51:81:90:28:cf:
+        55:50:f4:9a:7b:94:9d:bc:51:ec:10:4b:8f:38:e9:48:ae:34:
+        34:51:33:69:b4:8e:5b:cb:3d:55:c8:d6:ab:7c:49:f8:4c:95:
+        6c:79:b1:1e:7c:9e:61:8b:b5:4a:eb:ea:a2:e8:a5:3e:ba:2f:
+        aa:69:a8:91:9a:9c:43:98:e1:12:85:a9:fa:90:09:86:bd:74:
+        5b:57:14:ce:9f:c4:6b:11:cd:41:aa:d0:be:e3:0d:2c:7e:7f:
+        84:e7:8c:db:8f:45:82:88:04:49:cf:d9:b0:e3:e1:d2:68:13:
+        8e:b8:50:ca:93:ad:06:d4:38:28:8a:5c:1a:50:63:e0:8b:cc:
+        32:4a:0f:d2:7f:e4:90:1d:9a:07:38:df:c5:ec:95:b5:bc:ed:
+        25:0b:7a:e7:1e:d5:67:48:88:21:f9:cd:e0:45:64:47:b0:cf:
+        e1:39:bf:a2:87:59:fe:4a:0b:a1:50:a3:df:94:b4:9f:e9:95:
+        89:67:4b:5b:58:04
+-----BEGIN CERTIFICATE-----
+MIIErzCCAxegAwIBAgIUNEpp1CZscuunJFmpT8xk1JS4XxgwDQYJKoZIhvcNAQEL
+BQAwXDELMAkGA1UEBhMCSUQxEjAQBgNVBAoMCUtyaXB0b0lUUzEMMAoGA1UECwwD
+UEtJMSswKQYDVQQDDCJLcmlwdG9JVFMgRGVtbyBJc3N1aW5nIENBIDIwMjUwNjE5
+MB4XDTI1MDYxOTE0NDEwMVoXDTI4MDYxOTE0NDEwMVowITEfMB0GA1UEAwwWb3Bl
+bnhwa2ktaXRzLmpoci5teS5pZDCCAaIwDQYJKoZIhvcNAQEBBQADggGPADCCAYoC
+ggGBAL1o/zTJy1bQ46uiW7TCqrCyD4RYu5Gag8UeCwmtcR5ZKQiGpMqZn1tYc+iM
+4FYlPXSHcVo4fC9Y2hQHek/6yFfkdfBVS4RSBuyKRnaMGxyyd7Kizy6WVpbAQ1My
+Bkb4Xylxcd8bl9hxWZ9UmvqFZ1MhxEM/6R9LVilKDfcAPnUcRhX5Z+x/8OCT3vE6
+7Eb22H70Ogwa7RMIKtxr2TD3Gnt4gAlKDLLUlGMr1sy/Ygqi9vcUv+HwAQplpN25
+QXkOx0Sbvh6YCCw92rTafmpBqP5GCQGsA/PGPGAKSsdjBapCigw8AG9tARwpVYZo
+4skO9DpVhXyCJtIKQQXrz/ejxmrq3/ZSw0ZSXTq49marHn5kX83j22ibdtBTaYo4
+COcbKzzNeWSOdZgzzta3ffNLppCwGG/LxkvQ7bglTacxvOGFECPfKJisaKPwHCKf
+vI6zkXIwgwAa+lhOnQ06K4p5tUbl6ahdGl+xW84AxN/C7ZupmjDaKtH5PS3aZLAC
+eE/HtQIDAQABo4GjMIGgMB0GA1UdDgQWBBSB6NrwqRAx5y9eA5YDtiDCx2NzpzAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwG
+A1UdEwEB/wQCMAAwIQYDVR0RBBowGIIWb3Blbnhwa2ktaXRzLmpoci5teS5pZDAf
+BgNVHSMEGDAWgBQrFRkusPCJIDuEIcBgOjGymGu2gjANBgkqhkiG9w0BAQsFAAOC
+AYEACDFulF4Lu1IdVRNLNghVBNVhjh/rWT7NiYmB8ecoA45gda9rZFnHyoReirhN
+cUzhbSvlINv23a6X6AOOitFJKp/g6gXq9v0AhGE6KXlToBlaB4ZK7rP1CQ+Th1DW
+z1n6VERJ3nOnUN5+nimIvMiRnOiAbKBHR8QmVuUC2fhDmrSgQ77TEuDXDU2p15oQ
+2NLWOYViZtg2X2vrCFezQDg1Ax/k0tdi2MNbZCA7IuYpV1C0+LvTP3k8WhMKxABe
+EOGwAFGBkCjPVVD0mnuUnbxR7BBLjzjpSK40NFEzabSOW8s9VcjWq3xJ+EyVbHmx
+HnyeYYu1SuvqouilProvqmmokZqcQ5jhEoWp+pAJhr10W1cUzp/EaxHNQarQvuMN
+LH5/hOeM249FgogESc/ZsOPh0mgTjrhQypOtBtQ4KIpcGlBj4IvMMkoP0n/kkB2a
+BzjfxeyVtbztJQt65x7VZ0iIIfnN4EVkR7DP4Tm/oodZ/koLoVCj35S0n+mViWdL
+W1gE
+-----END CERTIFICATE-----
