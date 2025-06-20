@@ -176,7 +176,7 @@ Believe us, this saves so much time when you are trying to debug why your CRL ca
 
 ## Setting Directory and Files Permission
 
-We have configured the [publishing configuration](./project/openxpki-config/config.d/realm/kriptoca/publishing.yaml) for our own realm, `kriptoca`. In there, we've stated the permission for created CRL file and stuff that can be downloaded. The thing is: we aren't sure. In time like this, just run `chmod -R 755 /var/www/download` in one of the container as **root**. Don't ask why, it do be like that.
+We have configured the [publishing configuration](./project/openxpki-config/config.d/realm/kriptoca/publishing.yaml) for our own realm, `kriptoca`. In there, we've stated the permission for created CRL file and stuff that can be downloaded (*thank you for the [mailing list](https://sourceforge.net/p/openxpki/mailman/message/37783360/)*). The thing is: we aren't sure. In time like this, just run `chmod -R 755 /var/www/download` in one of the container as **root**. Don't ask why, it do be like that.
 
 ```bash
 docker exec --user root -it OpenXPKI_Server chmod -R 755 /var/www/download
