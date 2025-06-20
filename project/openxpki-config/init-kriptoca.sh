@@ -3,7 +3,7 @@
 ## DO NOT USE THIS SCRIPT FOR PRODUCTION SYSTEMS
 # https://publications.lexmark.com/publications/lexmark_solutions/MarkVision/AG/v4.0/html/en/managing-certificates-using-OpenXPKI-CA-group.html#creating-root-ca-certificate-topic
 # Run in docker container at /etc/openxpki-config/init-kriptoca.sh
-# or Run from host: docker exec OpenXPKI_Server /etc/openxpki-config/init-kriptoca.sh
+# or Run from host: docker exec -u root OpenXPKI_Server /etc/openxpki-config/init-kriptoca.sh
 
 set -e
 
