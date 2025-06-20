@@ -4,6 +4,9 @@
 # https://publications.lexmark.com/publications/lexmark_solutions/MarkVision/AG/v4.0/html/en/managing-certificates-using-OpenXPKI-CA-group.html#creating-root-ca-certificate-topic
 # Run in docker container at /etc/openxpki-config/init-kriptoca.sh as root
 # or Run from host: docker exec -u root OpenXPKI_Server /etc/openxpki-config/init-kriptoca.sh
+# If script stops, make sure ca folder and local folder empty
+# (on host, this is ./project/openxpki-config/local/keys and ./project/openxpki-config/ca)
+# (on container, this is /etc/openxpki/local/keys and /etc/openxpki/ca)
 
 set -e
 
