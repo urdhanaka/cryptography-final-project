@@ -1,6 +1,8 @@
 # Contributors
-
-Jundullah H. R. 05111940000144
+| Name      | Student Number |
+| :---:     | :---:            |
+| Jundullah H. R. | 05111940000144  |
+| Urdhanaka A.    | 5025211123      |
 
 ## Final words...
 
