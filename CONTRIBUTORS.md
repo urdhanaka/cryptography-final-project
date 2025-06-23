@@ -3,6 +3,7 @@
 | :---:     | :---:            |
 | Jundullah H. R. | 05111940000144  |
 | Urdhanaka A.    | 5025211123      |
+| Gloriyano C. Daniel Pepuho | 5025201121 |
 
 ## Final words...
 
